@@ -3,3 +3,13 @@ services:
   worker:
     build: .
     environment:
+      API_ID: $API_ID
+      API_HASH: $API_HASH
+      SESSION: $SESSION
+      BOT_TOKEN: $BOT_TOKEN
+      SUDOERS: $SUDOERS
+      STREAM_MODE: $STREAM_MODE
+
+            
+
+  
