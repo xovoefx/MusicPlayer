@@ -11,7 +11,7 @@ services:
       STREAM_MODE: $STREAM_MODE
       PREFIX: $PREFIX
       LANGUAGE: $LANGUAGE
-      
+      ADMINS_ONLY: $ADMINS_ONLY
             
 
   
