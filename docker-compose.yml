@@ -9,7 +9,9 @@ services:
       BOT_TOKEN: $BOT_TOKEN
       SUDOERS: $SUDOERS
       STREAM_MODE: $STREAM_MODE
-
+      PREFIX: $PREFIX
+      LANGUAGE: $LANGUAGE
+      
             
 
   
